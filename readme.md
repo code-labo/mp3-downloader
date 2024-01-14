@@ -3,6 +3,10 @@
 ## Abstract
 youtube上に作成したプレイリストをmp3形式でダウンロードするスクリプト
 
+## Environment
+- Windows11
+- python 3.8.12
+
 ## Usage
 
 ### 1. 必要なライブラリのインストール
