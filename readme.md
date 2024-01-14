@@ -6,6 +6,7 @@ youtube上に作成したプレイリストをmp3形式でダウンロードす�
 ## Environment
 - Windows11
 - python 3.8.12
+- Chrome
 
 ## Usage
 
